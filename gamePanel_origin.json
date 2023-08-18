@@ -1,0 +1,177 @@
+[
+    [
+        {
+            "x"           :   140,
+            "y"           :   268,
+            "character"   :   1,
+            "aboveMe"     :   [
+                                {
+                                    "layer": 1,
+                                    "index": 0
+                                }
+                            ],
+            "clickable"   :   false
+        },
+        {
+            "x"           :   225,
+            "y"           :   268,
+            "character"   :   1,
+            "aboveMe"     :   [
+                                {
+                                    "layer": 1,
+                                    "index": 1
+                                }
+                            ],
+            "clickable"   :   false
+        },
+        {
+            "x"           :   309,
+            "y"           :   268,
+            "character"   :   0,
+            "aboveMe"     :   [
+                                {
+                                    "layer": 1,
+                                    "index": 2
+                                }
+                            ],
+            "clickable"   :   false
+        },
+        {
+            "x"           :   140,
+            "y"           :   385,
+            "character"   :   0,
+            "aboveMe"     :   [
+                                {
+                                    "layer": 1,
+                                    "index": 3
+                                }
+                            ],
+            "clickable"   :   false
+        },
+        {
+            "x"           :   225,
+            "y"           :   385,
+            "character"   :   2,
+            "aboveMe"     :   [
+                                {
+                                    "layer": 1,
+                                    "index": 4
+                                }
+                            ],
+            "clickable"   :   false
+        },
+        {
+            "x"           :   309,
+            "y"           :   385,
+            "character"   :   1,
+            "aboveMe"     :   [
+                                {
+                                    "layer": 1,
+                                    "index": 5
+                                }
+                            ],
+            "clickable"   :   false
+        },
+        {
+            "x"           :   140,
+            "y"           :   502,
+            "character"   :   0,
+            "aboveMe"     :   [
+                                {
+                                    "layer": 1,
+                                    "index": 6
+                                }
+                            ],
+            "clickable"   :   false
+        },
+        {
+            "x"           :   225,
+            "y"           :   502,
+            "character"   :   2,
+            "aboveMe"     :   [
+                                {
+                                    "layer": 1,
+                                    "index": 7
+                                }
+                            ],
+            "clickable"   :   false
+        },
+        {
+            "x"           :   309,
+            "y"           :   502,
+            "character"   :   0,
+            "aboveMe"     :   [
+                                {
+                                    "layer": 1,
+                                    "index": 8
+                                }
+                            ],
+            "clickable"   :   false
+        }
+    ],
+    [
+        {
+            "x"           :   140,
+            "y"           :   300,
+            "character"   :   1,
+            "aboveMe"     :   [],
+            "clickable"   :   true
+        },
+        {
+            "x"           :   225,
+            "y"           :   300,
+            "character"   :   0,
+            "aboveMe"     :   [],
+            "clickable"   :   true
+        },
+        {
+            "x"           :   309,
+            "y"           :   300,
+            "character"   :   2,
+            "aboveMe"     :   [],
+            "clickable"   :   true
+        },
+        {
+            "x"           :   140,
+            "y"           :   416,
+            "character"   :   2,
+            "aboveMe"     :   [],
+            "clickable"   :   true
+        },
+        {
+            "x"           :   225,
+            "y"           :   416,
+            "character"   :   0,
+            "aboveMe"     :   [],
+            "clickable"   :   true
+        },
+        {
+            "x"           :   309,
+            "y"           :   416,
+            "character"   :   2,
+            "aboveMe"     :   [],
+            "clickable"   :   true
+        },
+        {
+            "x"           :   140,
+            "y"           :   507,
+            "character"   :   1,
+            "aboveMe"     :   [],
+            "clickable"   :   true
+        },
+        {
+            "x"           :   225,
+            "y"           :   507,
+            "character"   :   2,
+            "aboveMe"     :   [],
+            "clickable"   :   true
+        },
+        {
+            "x"           :   309,
+            "y"           :   507,
+            "character"   :   1,
+            "aboveMe"     :   [],
+            "clickable"   :   true
+        }
+    ]
+]

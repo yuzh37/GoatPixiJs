@@ -1,0 +1,80 @@
+{"data": [
+  [
+    {
+      "x": 118,
+      "y": 332,
+      "character": 0,
+      "aboveMe": [{ "layer": 1, "index": 0 }],
+      "clickable": false
+    },
+    {
+      "x": 246,
+      "y": 333,
+      "character": 1,
+      "aboveMe": [{ "layer": 1, "index": 1 }],
+      "clickable": false
+    },
+    {
+      "x": 374,
+      "y": 332,
+      "character": 2,
+      "aboveMe": [{ "layer": 1, "index": 2 }],
+      "clickable": false
+    },
+    {
+      "x": 118,
+      "y": 452,
+      "character": 0,
+      "aboveMe": [{ "layer": 1, "index": 3 }],
+      "clickable": false
+    },
+    {
+      "x": 246,
+      "y": 453,
+      "character": 0,
+      "aboveMe": [{ "layer": 1, "index": 4 }],
+      "clickable": false
+    },
+    {
+      "x": 374,
+      "y": 453,
+      "character": 0,
+      "aboveMe": [{ "layer": 1, "index": 5 }],
+      "clickable": false
+    },
+    {
+      "x": 118,
+      "y": 585,
+      "character": 1,
+      "aboveMe": [{ "layer": 1, "index": 6 }],
+      "clickable": false
+    },
+    {
+      "x": 246,
+      "y": 583,
+      "character": 1,
+      "aboveMe": [{ "layer": 1, "index": 7 }],
+      "clickable": false
+    },
+    {
+      "x": 374,
+      "y": 583,
+      "character": 2,
+      "aboveMe": [{ "layer": 1, "index": 8 }],
+      "clickable": false
+    }
+  ],
+  [
+    { "x": 118, "y": 356, "character": 1, "aboveMe": [], "clickable": true },
+    { "x": 246, "y": 361, "character": 0, "aboveMe": [], "clickable": true },
+    { "x": 374, "y": 361, "character": 0, "aboveMe": [], "clickable": true },
+    { "x": 118, "y": 475, "character": 1, "aboveMe": [], "clickable": true },
+    { "x": 246, "y": 476, "character": 2, "aboveMe": [], "clickable": true },
+    { "x": 374, "y": 476, "character": 2, "aboveMe": [], "clickable": true },
+    { "x": 118, "y": 611, "character": 1, "aboveMe": [], "clickable": true },
+    { "x": 246, "y": 613, "character": 2, "aboveMe": [], "clickable": true },
+    { "x": 374, "y": 614, "character": 2, "aboveMe": [], "clickable": true }
+  ]
+],
+"count" : 18
+}
